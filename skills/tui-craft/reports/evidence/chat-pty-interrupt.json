@@ -1,0 +1,48 @@
+{
+  "command": [
+    "/tmp/tui-craft-build.VIH6Dh/venv/bin/python",
+    "-B",
+    "/tmp/tui-craft-build.VIH6Dh/evals/chat/demo.py"
+  ],
+  "size": [
+    80,
+    24
+  ],
+  "completed_steps": 2,
+  "total_steps": 2,
+  "returncode": 130,
+  "failure": null,
+  "flags_before": {
+    "BRKINT": true,
+    "ICRNL": true,
+    "INPCK": false,
+    "ISTRIP": false,
+    "IXON": true,
+    "OPOST": true,
+    "ECHO": true,
+    "ICANON": true,
+    "IEXTEN": true,
+    "ISIG": true,
+    "VMIN": 1,
+    "VTIME": 0
+  },
+  "flags_after": {
+    "BRKINT": true,
+    "ICRNL": true,
+    "INPCK": false,
+    "ISTRIP": false,
+    "IXON": true,
+    "OPOST": true,
+    "ECHO": true,
+    "ICANON": true,
+    "IEXTEN": true,
+    "ISIG": true,
+    "VMIN": 1,
+    "VTIME": 0
+  },
+  "flags_restored": true,
+  "captured_bytes": 13767,
+  "evidence": "PTY bytes/process/termios only; no emulator or physical pointer observation",
+  "expected_returncode": 130,
+  "passed": true
+}

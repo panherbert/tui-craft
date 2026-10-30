@@ -1,0 +1,17 @@
+--- small_before.py
++++ small_after.py
+@@ -1,4 +1,4 @@
+-"""Before fixture: fixed editor width pushes Apply outside narrow terminals."""
++"""After fixture: flexible editor preserves the existing Apply action."""
+ from textual.app import App, ComposeResult
+ from textual.containers import Horizontal
+ from textual.widgets import Input, Button
+@@ -7,7 +7,7 @@
+ class SmallApp(App):
+     CSS = """
+     Horizontal { height: 3; }
+-    Input { width: 52; }
++    Input { width: 1fr; min-width: 8; }
+     Button { width: 12; min-width: 12; }
+     """
+     BINDINGS = [("ctrl+q", "quit", "Quit")]

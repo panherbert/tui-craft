@@ -1,0 +1,58 @@
+{
+  "codex_version": "0.166.0",
+  "method": "skills/list",
+  "forceReload": true,
+  "extra_roots": false,
+  "model_turn_started": false,
+  "entries": [
+    {
+      "cwd": "/Users/panherbert",
+      "matches": [
+        {
+          "name": "tui-craft",
+          "description": "Design, implement, improve, or audit terminal applications and interactive CLI tools, including chat and agent sessions, dashboards, lists, forms, and inline pickers. Use for terminal layout, controls, streaming, lifecycle, and behavioral verification in existing or new projects. Not for ordinary web or native GUI design; browser mockups can be references but do not verify terminal behavior.",
+          "interface": {
+            "displayName": "TUI Craft",
+            "shortDescription": "Polished terminal design and working interactions",
+            "iconSmall": null,
+            "iconLarge": null,
+            "iconSmallUrl": null,
+            "iconLargeUrl": null,
+            "brandColor": null,
+            "defaultPrompt": "Use $tui-craft to design, implement, or improve this terminal interface and verify its behavior."
+          },
+          "path": "/Users/panherbert/.codex/skills/tui-craft/SKILL.md",
+          "scope": "user",
+          "enabled": true,
+          "pluginId": null
+        }
+      ],
+      "skill_error_count": 0
+    },
+    {
+      "cwd": "/tmp/tui-craft-build.VIH6Dh/evals/chat",
+      "matches": [
+        {
+          "name": "tui-craft",
+          "description": "Design, implement, improve, or audit terminal applications and interactive CLI tools, including chat and agent sessions, dashboards, lists, forms, and inline pickers. Use for terminal layout, controls, streaming, lifecycle, and behavioral verification in existing or new projects. Not for ordinary web or native GUI design; browser mockups can be references but do not verify terminal behavior.",
+          "interface": {
+            "displayName": "TUI Craft",
+            "shortDescription": "Polished terminal design and working interactions",
+            "iconSmall": null,
+            "iconLarge": null,
+            "iconSmallUrl": null,
+            "iconLargeUrl": null,
+            "brandColor": null,
+            "defaultPrompt": "Use $tui-craft to design, implement, or improve this terminal interface and verify its behavior."
+          },
+          "path": "/Users/panherbert/.codex/skills/tui-craft/SKILL.md",
+          "scope": "user",
+          "enabled": true,
+          "pluginId": null
+        }
+      ],
+      "skill_error_count": 0
+    }
+  ],
+  "confirmed": true
+}

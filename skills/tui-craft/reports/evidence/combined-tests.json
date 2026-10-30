@@ -1,0 +1,14 @@
+{
+  "command": "PYTHONDONTWRITEBYTECODE=1 python -m pytest -q -p no:cacheprovider examples",
+  "python": "3.12.13",
+  "textual": "8.2.8",
+  "pytest": "9.1.1",
+  "passed": 27,
+  "failed": 0,
+  "duration_seconds": 19.26,
+  "test_layers": [
+    "framework-headless",
+    "POSIX-PTY tool fixtures",
+    "package-structure/archive/install"
+  ]
+}

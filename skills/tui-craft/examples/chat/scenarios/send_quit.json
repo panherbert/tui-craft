@@ -1,0 +1,1 @@
+{"size":[80,24],"steps":[{"expect":"simulated transport"},{"send":"\u001b[200~hello 日本語\nsecond line\u001b[201~"},{"wait":0.15},{"send":"\u0013"},{"expect":"You:"},{"expect":"simulated exchange is complete"},{"resize":[60,20]},{"wait":0.1},{"send":"\u0011"}]}

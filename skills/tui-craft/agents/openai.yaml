@@ -1,0 +1,4 @@
+interface:
+  display_name: "TUI Craft"
+  short_description: "Polished terminal design and working interactions"
+  default_prompt: "Use $tui-craft to design, implement, or improve this terminal interface and verify its behavior."

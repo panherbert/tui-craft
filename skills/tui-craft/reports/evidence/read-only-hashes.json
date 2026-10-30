@@ -1,0 +1,18 @@
+{
+  "before_sha256": {
+    "pyproject.toml": "f2d51dd65fe5d2463c73dbb7543110447b21839e9824ed62184961d672b00207",
+    "mockups/README.md": "128126268da705700d66b26c0906aa35f922f4411b93b382c189e6df67ea2d46",
+    "research/conversation-model.md": "ba9e8bbcdf923557a496ede603625e682442f90f3886314a7b5f05e82c2535e5",
+    "codexbot/conversations.py": "3867b298a7fa486251bcdb0154b67e9fbb255afd26d233171275b223031292cf",
+    "mockups/test_demo_model.py": "7d6a02010815dffb450078df23da65abcc0d5b45697440dd15bdfebcc290d1c2",
+    "mockups/demo_model.py": "ebf07703d2171c5989587b2e44801883db604b84d0d2cdc96902e13501816924",
+    "mockups/test_tui_browser.py": "904a2a979dec6c6b180af1de4572d1abd4185f402cc0e149ae692be104632734",
+    "mockups/tui_demo.py": "199e33a8bb0c38f45f0be9b2b118490a4ae38d4c09c1a09b45b19e656abd17a7",
+    "mockups/tui_browser.py": "6b72cbdb743c24e849d760b6f5a3c11a97a453948295fe971f1bce5ff2575310",
+    "mockups/tui_browser.html": "4a06f2e0d6a79dc2c167419230c8d9fb8942a875493b23f573f4fb206bac32de",
+    "mockups/codexbot-conversation.html": "5e820db6d1bdeabf9f3ee60d39acc912149906df88611af3048e048bceb9c266",
+    "mockups/codexbot-orchestration.html": "3211a83bc04462d262a99bcde9671b1d1c25754a053b420e602c96b1989906af",
+    "mockups/codexbot-tui.html": "dcf586ea04672d3234eed821cf49c4ca11b07b45d561e63ec58a4c8a690e4e90"
+  },
+  "changed": []
+}

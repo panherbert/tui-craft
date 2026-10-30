@@ -1,0 +1,266 @@
+[
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/SKILL.md",
+    "sha256": "f7a7db5cc439c6271f2614fd99a424c1ff5f1b22ea3907d40cd77e482ebb6265"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/ecosystem-go.md",
+    "sha256": "0a6da0bbebc2455af1e7858a7f3a02fd2a012f8b95eab1c4e5fe6765b807d5fe"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/visual-patterns.md",
+    "sha256": "0f75f5cb5ad541e97a8cba9bac4b035d627510ed075f72fa3621aa3b95993049"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/ecosystem-rust.md",
+    "sha256": "4959d2d3c73afd653989720d555a929df0b486bf52881a2291a90641dd1b2579"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/cli-basics.md",
+    "sha256": "8b2da778f851aeaec93d3cd572f69a9558055308a9bbe8455024cf884036f5ca"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/ecosystem-python.md",
+    "sha256": "b032157b38bbc233ace8f6541ceab71baf95976c7b50bb8791033aa4c8fc6c81"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/ecosystem-typescript.md",
+    "sha256": "d1ae3a1569c81b326f4ba4c63e7433e982e35f2eb7a632dc693a239f3243b739"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/terminal-protocols.md",
+    "sha256": "ae2d3cad9865b2461092aa5c0a69ea9e83e04acba87f0f9137a6add94329c7bc"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/interaction-patterns.md",
+    "sha256": "4471a68ae74d05df36e0c0995d66464d7ab33fefa604f0a75a1b021b0dccc95f"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "plugins/tui-design/skills/tui-design/references/exemplar-apps.md",
+    "sha256": "b59799564188beeb5626748a1e1595674511ab1462fce5d2663b8fbb13904557"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "scripts/check-samples.py",
+    "sha256": "f484eebb3a5527e5172f4f54496e7f1ab8d151ae8067576c9e042764a600b2c3"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "scripts/check-samples.sh",
+    "sha256": "cbcd676ab73ff07baa7f6779962f25b3095a0408cc25914738d96e75c9357f57"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "scripts/package-skill.sh",
+    "sha256": "fa273fa14b8bf2805fccbf36f6f4b558c1939827cd5ded80d3821ed79fdb26e2"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "tests/test_check_samples.py",
+    "sha256": "46c02409b481a605f132fa6664fa5374674db6da63e2dec690cb6107de75e20d"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "tests/samples/python/test_events.py.tmpl",
+    "sha256": "4b3ea6fbee2d082cd2506395f4d27b9420f8e65a83c3020eb390543455530f48"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "tests/samples/rust/tests/input_cursor.rs.tmpl",
+    "sha256": "9b3ebd4e399a46b831c2dc394db472ca43343842f2313672ddbab8259cc121be"
+  },
+  {
+    "source": "gfargo",
+    "revision": "74e095c177a387c61d368478074a1a94937d3aa1",
+    "path": "LICENSE",
+    "sha256": "0554842974eb54888c3fff55fd9db38ea9f93f547031342857d91fd25bd3f3a3"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/SKILL.md",
+    "sha256": "a97aa1094e6dd5bb79ebb9eea10939a77a38eda74a9720ba610261486e098126"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/tools.md",
+    "sha256": "da7ce0aaf65dced37dcfa7fb561e672c9ee0ff18e18d8e105ab590de07a7c656"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/lifecycle.md",
+    "sha256": "0ebc4579709486985959292ec0d6a15e901419944b5c2214f58649a7966d62e5"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/visual-craft.md",
+    "sha256": "cc4c2958408758b69fe3c4f56abda83dbb43a4f8bc02f30ee6a01878afe3cebe"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/frameworks/choosing.md",
+    "sha256": "4c53f6a892a171c40f04e0d03f84e7d098093353d128c74bf5cacf19b76aedb8"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/frameworks/ink.md",
+    "sha256": "cedc01cc86dcf8893c00810f55f08d408c487ec64a106b08f2cc26f9822bd552"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/frameworks/textual.md",
+    "sha256": "95d742d06b5639a79bb4fda83b4338e1ce0c3f1144618b5e97b927712ef93b9f"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/frameworks/bubbletea.md",
+    "sha256": "14b7b7f1a5ff287b5c577b9b2a59823215b511cbc870e97f19fba172067516f5"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/frameworks/ratatui.md",
+    "sha256": "f969570a584aff8be2b16253258be98e24d724a0f0922262092e5e02288b50e5"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/archetypes/k-chat-session.md",
+    "sha256": "e82f5e8d8da5a0921d2e33c58340729dde00068e27e5239df73f719147fa2198"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/archetypes/b-list-detail.md",
+    "sha256": "6a466e94f40b25dc29fdbcc376c4004e3aafab2f5bd360c2c096f78d5539279f"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/archetypes/f-form-wizard.md",
+    "sha256": "9772b287cba760c26f67f8a182f230bd6c3730461ebe8eb065a39cac89e4aeb0"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/references/archetypes/j-inline-picker.md",
+    "sha256": "02cef90bd74c32cb3c69ffe2ab4fd2887eb89f151c935da14c29a8ac0b67dd9f"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/scripts/key_probe.py",
+    "sha256": "4d4bb32ceb5aec75013c29324f1868d45084ca6cb8cc0d55948c72ee5a7d5d88"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/scripts/capture_tui.sh",
+    "sha256": "a0c3f15a064d1799ea69afcba089ef30706fae63d083b67e4edbc24502078e88"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/scripts/render_mockup.py",
+    "sha256": "7962a7b189a4b05ed64e3d16fab5609fcbd3547cd3c6f130eca74f5632eb3477"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/scripts/_craft.py",
+    "sha256": "8a618c1f69600e64b6912b3e61a3ef6d07afba8c2e8a51903b4488a7db60e09d"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/scripts/contrast_check.py",
+    "sha256": "75316caf590c23d801248a46b897d743c98cb1653f7d68ddcd3452bc68feb156"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/scripts/export_theme.py",
+    "sha256": "d742eb4e7fe2d993b992f8f92343cf4b3336dd2f0ab0357eccefc6d819d9b9e3"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/assets/proto-starters/textual/README.md",
+    "sha256": "2fd76ad3ff1706e2b4664e69a8fc31baf983c25272482e9e0cb0c948543d8b4b"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/assets/proto-starters/textual/fleet/app.py",
+    "sha256": "9be692e7c558f3503eee399b3fc319da23c3d85dbfb88626a6d2917985c3e8b7"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "skills/tui-design/assets/mockups/chat/session--busy--80x24.mock",
+    "sha256": "a1fbfab4c6b2e1c37e4656f0412294e7148d107f7de26f1d52a0fb8dcf022991"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "tests/test_key_probe.py",
+    "sha256": "01983db75e381126c6e2627e0702d9f78cb2736a6e933e6a2cd990006045171d"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "tests/test_craft.py",
+    "sha256": "4607c9f9261888c14ec77f82bd5f28b7873c083e7ac1916995ded43e0041e025"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "tests/test_capture.sh",
+    "sha256": "256cb9c907b6c40719c713c3a521d90e0552bacadb4a3bdd702e2a2153714fd4"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "CREDITS.md",
+    "sha256": "32d006d3bdfbf82971de032216ffbbe2da96d8864b1982a79a90ea37baf1061f"
+  },
+  {
+    "source": "diegomarino",
+    "revision": "bc81639c83fb01feb74429454e4ad50706b7bb86",
+    "path": "LICENSE",
+    "sha256": "c9b0b93aab355bf4476639d92332ac45d7356a27acf53a6c9c9dcf204c9e0f7c"
+  }
+]

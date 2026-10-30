@@ -1,0 +1,29 @@
+{
+  "size": [
+    80,
+    24
+  ],
+  "steps": [
+    {
+      "expect": "simulated transport"
+    },
+    {
+      "send": "\u001b[200~mouse protocol check\u001b[201~"
+    },
+    {
+      "wait": 0.1
+    },
+    {
+      "send": "\u001b[<0;4;22M\u001b[<0;4;22m"
+    },
+    {
+      "expect": "You:"
+    },
+    {
+      "expect": "simulated exchange is complete"
+    },
+    {
+      "send": "\u0011"
+    }
+  ]
+}
